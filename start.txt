@@ -1,1 +1,2 @@
 test git quick start demo2
+this is how i am checking whether i am doing this correctly
