@@ -4,3 +4,6 @@ this is a file
 this is not a good file!
 
 why am i not farther along by now??
+
+
+fixed bug innline 6
